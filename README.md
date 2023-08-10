@@ -1,4 +1,4 @@
-# calculadorajuros
+Calculadora de Juros Compostos
 
 Projeto desenvolvido em HTML, css e Javascript. 
 
